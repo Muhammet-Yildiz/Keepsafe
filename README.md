@@ -42,7 +42,7 @@ Click the demo link or clone/download the repository on your local machine. Ther
 
 2. Uploaded images are added to Firebase firestore and taken from firestore and displayed to the user . 
 
-3.Framer motion library was used for user satisfaction
+3. Framer motion library was used for user satisfaction
 
 
 ### Licence
