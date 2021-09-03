@@ -1,70 +1,52 @@
-# Getting Started with Create React App
 
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+  <h1 align ="center">Keepsafe</h1>
+ 
+ <h5 align ="center">
+ Keepsafe is a photo gallery app built with react and firebase. You can easily upload your photos. Your photos are safe here.
+ </h5>
+ </br>
+ 
+ 
+ ![photoalbum](https://user-images.githubusercontent.com/72153125/132002203-f1246f84-a886-4128-9160-a0b922138c17.png)
 
-## Available Scripts
+ 
+ 
+ ### Summary
+ 
+Keepsafe is a photo gallery app built with react and firebase. The photos uploaded by the user are uploaded to the firestore and taken from the firestore and displayed to the user.Framer motion library was used for user satisfaction
+ <br> 
+<br> 
+ ### Motivation
+The purpose of this project was to use react hooks and firebase together . 
+<br> 
+<br> 
+ 
+ ###  Getting Started
 
-In the project directory, you can run:
+Getting Started
+Click the demo link or clone/download the repository on your local machine. There is a config.js file in the api folder inside the src folders. Make the necessary setttings in firebaseConfig
+ 
+<br> 
+ 
+ 
+### Built With
 
-### `npm start`
+- React js
+- React Hooks
+- Firebase
+- Framer motion
 
-Runs the app in the development mode.\
-Open [http://localhost:3000](http://localhost:3000) to view it in the browser.
 
-The page will reload if you make edits.\
-You will also see any lint errors in the console.
+### Features
+1. Responsive Design.
 
-### `npm test`
+2. Uploaded images are added to Firebase firestore and taken from firestore and displayed to the user . 
 
-Launches the test runner in the interactive watch mode.\
-See the section about [running tests](https://facebook.github.io/create-react-app/docs/running-tests) for more information.
 
-### `npm run build`
 
-Builds the app for production to the `build` folder.\
-It correctly bundles React in production mode and optimizes the build for the best performance.
+### Licence
 
-The build is minified and the filenames include the hashes.\
-Your app is ready to be deployed!
+[https://github.com/Muhammet-Yildiz/MoviesAPP/blob/main/LICENSE](https://github.com/Muhammet-Yildiz/Keepsafe/blob/main/LICENSE)
 
-See the section about [deployment](https://facebook.github.io/create-react-app/docs/deployment) for more information.
 
-### `npm run eject`
 
-**Note: this is a one-way operation. Once you `eject`, you can’t go back!**
-
-If you aren’t satisfied with the build tool and configuration choices, you can `eject` at any time. This command will remove the single build dependency from your project.
-
-Instead, it will copy all the configuration files and the transitive dependencies (webpack, Babel, ESLint, etc) right into your project so you have full control over them. All of the commands except `eject` will still work, but they will point to the copied scripts so you can tweak them. At this point you’re on your own.
-
-You don’t have to ever use `eject`. The curated feature set is suitable for small and middle deployments, and you shouldn’t feel obligated to use this feature. However we understand that this tool wouldn’t be useful if you couldn’t customize it when you are ready for it.
-
-## Learn More
-
-You can learn more in the [Create React App documentation](https://facebook.github.io/create-react-app/docs/getting-started).
-
-To learn React, check out the [React documentation](https://reactjs.org/).
-
-### Code Splitting
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/code-splitting](https://facebook.github.io/create-react-app/docs/code-splitting)
-
-### Analyzing the Bundle Size
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/analyzing-the-bundle-size](https://facebook.github.io/create-react-app/docs/analyzing-the-bundle-size)
-
-### Making a Progressive Web App
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/making-a-progressive-web-app](https://facebook.github.io/create-react-app/docs/making-a-progressive-web-app)
-
-### Advanced Configuration
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/advanced-configuration](https://facebook.github.io/create-react-app/docs/advanced-configuration)
-
-### Deployment
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/deployment](https://facebook.github.io/create-react-app/docs/deployment)
-
-### `npm run build` fails to minify
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify](https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify)
